@@ -457,3 +457,9 @@ Caused by: org.eclipse.core.runtime.CoreException: Cannot determine URI for '/Mi
 2021-10-09 17:56:16,578 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MIN\Desktop\QAassignmentWeatherAPI\WeatherForecastsAPITest\src\main\resources
 2021-10-09 17:56:16,581 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-10-09 17:56:16,581 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MIN\Desktop\QAassignmentWeatherAPI\WeatherForecastsAPITest\src\test\resources
+2021-10-09 22:05:48,975 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-09 22:05:53,599 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Mintest:Mintest:0.0.1-SNAPSHOT @ C:\Users\MIN\Desktop\repo_api\WeatherForecastsAPITest\pom.xml.
+2021-10-09 22:05:58,194 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-09 22:05:58,195 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MIN\Desktop\repo_api\WeatherForecastsAPITest\src\main\resources
+2021-10-09 22:05:58,198 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-09 22:05:58,199 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MIN\Desktop\repo_api\WeatherForecastsAPITest\src\test\resources
