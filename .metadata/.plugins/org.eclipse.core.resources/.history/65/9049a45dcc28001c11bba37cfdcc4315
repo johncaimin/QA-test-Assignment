@@ -1,0 +1,12 @@
+package restassuredTests;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+public class weather {
+	
+	
+	  public String wind_cdir;
+	
+	
+	  public Float moonrise_ts;
+}
