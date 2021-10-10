@@ -28,5 +28,7 @@ The API Key only allow to call the API 50K/per day.
 4. What more and weakness
 WeatherForecastsAPITest.java file will call the API around 150-200 time every time it run.
 It might consume lost of resources. But this will also test the API performance under call stress.
+
+For more information please check the Question 2 API automation.pdf
  
 
