@@ -12,10 +12,13 @@ Click on next .Accept the agreement & click finish.
 1.3 Please install TestNG into your local device.
 For example if you use Eclipe IDE. Go to Help->Install new software
 Type ¡°https://testng.org/testng-eclipse-update-site/¡± into the work with field
-Install the TestNG library.
+Click on next .Accept the agreement & click finish.
+
 
 1.4 Enter the java files
 Enter PostalOrCityName.java or WeatherForecastsAPITest.java.
+\WeatherForecastsAPITest\src\test\java\restassuredTests\PostalOrCityName.java
+\WeatherForecastsAPITest\src\test\java\restassuredTests\WeatherForecastsAPITest.java
 Right click the Run As ¡°TestNG Test¡±
 
 2. Where to find reports
